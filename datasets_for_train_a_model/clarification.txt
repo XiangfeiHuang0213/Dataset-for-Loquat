@@ -1,1 +1,1 @@
-The datasets for train a detection model after process after matlab script processing
+The datasets for training a detection model after MATLAB script processing
