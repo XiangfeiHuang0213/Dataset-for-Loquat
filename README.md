@@ -33,7 +33,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 ```
 # Clone this repository to yolov9 folder
-git clone https://github.com/XiangfeiHuang0213/Dataset-for-Loquat.
+git clone https://github.com/XiangfeiHuang0213/Dataset-for-Loquat.git
 ```
 
 ```
